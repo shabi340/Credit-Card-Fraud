@@ -29,8 +29,11 @@ Project Structure
 The project has the following structure:
 
 credit_card_fraud_detection.ipynb: Jupyter notebook containing the code for the project
+
 creditcard.csv: CSV file containing the dataset
+
 README.md: This README file
+
 requirements.txt: File containing the required packages for the project
 
 
