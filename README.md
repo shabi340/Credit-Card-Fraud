@@ -17,12 +17,13 @@ Run the Jupyter notebook credit_card_fraud_detection.ipynb to explore the datase
 Prerequisites
 To run this project, you will need to have the following packages installed:
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
+1. pandas
+2. numpy
+3. matplotlib
+4. seaborn
+5. scikit-learn
+6. xgboost
+
 You can install these packages using the requirements.txt file provided in this repository.
 
 Project Structure
@@ -35,7 +36,6 @@ creditcard.csv: CSV file containing the dataset
 README.md: This README file
 
 requirements.txt: File containing the required packages for the project
-
 
 Acknowledgments
 Credit Card Fraud Detection dataset from Kaggle
